@@ -46,3 +46,4 @@ Hinweis: Du kannst auf deinen GitHub-Account verlinken, in dem du passende Markd
  - [StefanRieger](https://github.com/StefanRieger) Viele Grüße und noch weiter einen heißen Sommer! :)
  - [Flamm3r](https://github.com/Flamm3r) Hallo, danke für den GitHub Kurs auf Udemy! :)
  - [Alpackisback](https://github.com/Alpackisback) Hi, vielen lieben Dank für den GitHub Kurs auf Udemy
+ - [SteveAusBerlin](https://github.com/SteveAusBerlin) Hallo Jan, viele Grüße aus dem sonnigen Berlin
